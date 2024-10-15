@@ -3,4 +3,6 @@
 Toto je cvičný repozitář pro Git tutorial.</br>
 Tutorial byl vytvořen podle https://www.w3schools.com/git.
 
-dalsi radka
+dalsi radek
+
+dalsi radek 2
